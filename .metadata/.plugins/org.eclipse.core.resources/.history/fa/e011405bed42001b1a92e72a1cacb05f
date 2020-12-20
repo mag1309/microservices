@@ -1,0 +1,15 @@
+package com.hello.example.controller;
+
+@RestController
+public class HelloController {
+
+	@Autowired
+    private Environment env;
+
+    @Override
+    public void run(String... args) throws Exception {
+
+        logger.info("{}", env.getProperty("JAVA_HOME"));
+        logger.info("{}", env.getProperty("app.name"));
+    }
+}

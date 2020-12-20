@@ -1,0 +1,5 @@
+package com.hello.example.controller;
+
+public class HelloController {
+
+}

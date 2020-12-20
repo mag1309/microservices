@@ -1,0 +1,9 @@
+logging.level.org.springframework=DEBUG
+spring.application.name=config-server
+server.port=8888
+spring.cloud.config.server.git.uri=https://github.com/mag1309/springboot
+spring.cloud.config.server.git.username=mag1309
+spring.cloud.config.server.git.password=Bujji@1980
+spring.cloud.config.server.git.cloneOnStart=true
+#spring.cloud.config.server.git.search-paths=
+#spring.profiles.active=native

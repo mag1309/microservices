@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;bootstrap.properties&apos; to &apos;HelloConfigClient/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;HelloService&apos;&#x0D;&#x0A;- Destination element: &apos;HelloConfigClient/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;bootstrap.properties&apos;" description="Copy file" destination="=HelloConfigClient/src\/main\/resources=/maven.pomderived=/true=/" element1="src/main/resources/bootstrap.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1608486574286" units="0" version="1.0"/>
+</session>
